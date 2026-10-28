@@ -1,0 +1,2 @@
+alert_email = "you@example.com"
+enable_waf  = false
