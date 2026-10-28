@@ -1,4 +1,4 @@
-# Cloud Programming portfolio (DLBSEPCP01_E) - Task 1: Host a simple webpage on AWS
+# Cloud Programming portfolio (DLBSEPCP01_E) - Host a simple webpage on AWS
 
 This repo contains the Terraform code for the architecture from my concept phase,
 "Global Edge, Multi-AZ Web Tier". It hosts a simple hello-world page on AWS in a way
